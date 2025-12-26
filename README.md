@@ -25,8 +25,14 @@ The optimization focuses on minimizing:
 - Modern graphs for performance comparison (latency, energy, load variance).
 
 ## 📦 Project Structure
-├── dataset/ # Topology files ├── src/ # Source codes (NSGA-III, PPO, visualization) ├── outputs/ # Generated maps and graphs ├── README.md # Project documentation ├── requirements.txt # Python dependencies └── LICENSE # (Optional) License file
 
+📦 project-name/
+├── dataset/            # Topology files
+├── src/                # Source code (NSGA-III, PPO, visualization)
+├── outputs/            # Generated maps and graphs
+├── README.md           # Project documentation
+├── requirements.txt    # Python dependencies
+└── LICENSE             # (Optional) Project license
 
 ## ⚡ How to Run
 1. Clone the repository:
