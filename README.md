@@ -25,7 +25,7 @@ The optimization focuses on minimizing:
 - Modern graphs for performance comparison (latency, energy, load variance).
 
 ## 📦 Project Structure
-
+```bash
 📦 project-name/
 ├── dataset/            # Topology files
 ├── src/                # Source code (NSGA-III, PPO, visualization)
@@ -33,9 +33,10 @@ The optimization focuses on minimizing:
 ├── README.md           # Project documentation
 ├── requirements.txt    # Python dependencies
 └── LICENSE             # (Optional) Project license
-
+```
 ## ⚡ How to Run
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/sdn-controller-placement.git
 cd sdn-controller-placement
+```
